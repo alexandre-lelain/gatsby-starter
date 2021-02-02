@@ -5,5 +5,5 @@
 ## Todo
 
 - connect to netlify
-- add eslint
+- use lighthouse cli tool in CI
 - add testing
