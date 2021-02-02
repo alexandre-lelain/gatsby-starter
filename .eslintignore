@@ -1,0 +1,5 @@
+gatsby-*
+node_modules
+public
+.cache
+yarn.lock
